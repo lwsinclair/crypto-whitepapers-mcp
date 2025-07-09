@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-crypto-whitepapers-mcp-badge.png)](https://mseep.ai/app/kukapay-crypto-whitepapers-mcp)
+
 # Crypto Whitepapers MCP Server
 
 An MCP server serving as a structured knowledge base of crypto whitepapers for AI agents to access, analyze, and learn from.
